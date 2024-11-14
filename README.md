@@ -54,10 +54,6 @@ It does not appear for fields like:
 
 Yes, the plugin works perfectly with both LTR and RTL websites.
 
-## Screenshots
-
-1. Text alignment control in the Elementor editor
-2. Example of different text alignments in a form
 
 ## Changelog
 
@@ -67,7 +63,7 @@ Yes, the plugin works perfectly with both LTR and RTL websites.
 ## Author
 
 Itai Ben Zeev
-- [GitHub](https://github.com/itaibenzeev)
+- [GitHub](https://github.com/itaides)
 
 ## License
 
@@ -75,7 +71,7 @@ This project is licensed under the GPL v2 or later
 
 ## Support
 
-For support, create an issue in the [GitHub repository](https://github.com/itaibenzeev/elementor-form-alignment).
+For support, create an issue in the [GitHub repository](https://github.com/itaides/elementor-form-alignment).
 
 ## Contributing
 
